@@ -19,7 +19,7 @@ export default function Home() {
     const signatureHtml = `
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
   <tr>
-    <td align="center" style="padding: 20px 0;">
+    <td align="left" style="padding: 20px 0;">
       <a href="https://cjm-business-card.vercel.app/${personId}" target="_blank">
         <img src="${person.signatureImage}" 
              alt="${person.name} – CJM Lawyers Digital Card" 
