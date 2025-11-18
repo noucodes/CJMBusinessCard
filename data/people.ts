@@ -17,7 +17,7 @@ export const people: Person[] = [
     avatar: "/avatars/shannon.jpg",
     headerImage: "/header.png",
     signatureImage:
-      "https://raw.githubusercontent.com/noucodes/CJMEmailSignature/main/img/Personalised.png",
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/shannon-email.png",
     contacts: [
       {
         icon: "phone",
@@ -56,7 +56,7 @@ export const people: Person[] = [
     avatar: "/avatars/jane.jpg",
     headerImage: "/header.png",
     signatureImage:
-      "https://raw.githubusercontent.com/noucodes/CJMEmailSignature/main/img/Personalised.png",
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/kent-email.png",
     contacts: [
       { icon: "phone", label: "1300 245 300", href: "tel:1300245300" },
       {
@@ -89,7 +89,7 @@ export const people: Person[] = [
     avatar: "/avatars/jane.jpg",
     headerImage: "/header.png",
     signatureImage:
-      "https://raw.githubusercontent.com/noucodes/CJMEmailSignature/main/img/Personalised.png",
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email.png",
     contacts: [
       { icon: "phone", label: "1300 245 300", href: "tel:1300245300" },
       {
