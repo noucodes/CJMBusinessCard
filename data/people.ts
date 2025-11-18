@@ -27,8 +27,8 @@ export const people: Person[] = [
       },
       {
         icon: "mail",
-        label: "info@cjmlaw.com.au",
-        href: "mailto:info@cjmlaw.com.au",
+        label: "shannon@cjmlaw.com.au",
+        href: "mailto:shannon@cjmlaw.com.au",
       },
       {
         icon: "map-pin",
