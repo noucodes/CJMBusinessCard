@@ -17,7 +17,7 @@ export const people: Person[] = [
     avatar: "/avatars/shannon.jpg",
     headerImage: "/header.png",
     signatureImage:
-      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/shannon-email.png",
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/shannon-email1.png",
     contacts: [
       {
         icon: "phone",
