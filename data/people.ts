@@ -58,7 +58,7 @@ export const people: Person[] = [
     signatureImage:
       "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/kent-email.png",
     contacts: [
-      { icon: "phone", label: "1300 245 300", href: "tel:1300245300" },
+      { icon: "phone", label: "1300 245 299", href: "tel:1300245299" },
       {
         icon: "mail",
         label: "kent@cjmlaw.com.au",
@@ -67,7 +67,7 @@ export const people: Person[] = [
       {
         icon: "map-pin",
         label: "91 Bundall Road, Surfers Paradise QLD",
-        href: "#",
+        href: "https://share.google/JQVl1eM8Zi8fNlVKw",
       },
       {
         icon: "globe",
@@ -91,16 +91,16 @@ export const people: Person[] = [
     signatureImage:
       "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email1.png",
     contacts: [
-      { icon: "phone", label: "1300 245 300", href: "tel:1300245300" },
+      { icon: "phone", label: "1300 245 299", href: "tel:1300245299" },
       {
         icon: "mail",
         label: "jenna@cjmlaw.com.au",
-        href: "mailto:kent@cjmlaw.com.au",
+        href: "mailto:jenna@cjmlaw.com.au",
       },
       {
         icon: "map-pin",
         label: "91 Bundall Road, Surfers Paradise QLD",
-        href: "#",
+        href: "https://share.google/JQVl1eM8Zi8fNlVKw",
       },
       {
         icon: "globe",
