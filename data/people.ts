@@ -70,7 +70,7 @@ export const people: Person[] = [
         id: "christmas",
         name: "Christmas 2025",
         image:
-          "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/kent-email-christmas.pn",
+          "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/kent-email-christmas.png",
       },
     ],
     contacts: [
