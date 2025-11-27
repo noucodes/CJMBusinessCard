@@ -23,8 +23,8 @@ export default function Home() {
       <a href="https://cjm-business-card.vercel.app/${personId}" target="_blank">
         <img src="${person.signatureImage}" 
              alt="${person.name} – CJM Lawyers Digital Card" 
-             width="800" 
-             style="width: 800px; max-width: 100%; height: auto; border-radius: 18px; box-shadow: 0 12px 40px rgba(0,0,0,0.15); display: block;" />
+             width="700" 
+             style="width: 700px; max-width: 100%; height: auto; border-radius: 18px; box-shadow: 0 12px 40px rgba(0,0,0,0.15); display: block;" />
       </a>
     </td>
   </tr>
