@@ -17,7 +17,15 @@ export const people: Person[] = [
     avatar: "/avatars/shannon.jpg",
     headerImage: "/header.png",
     signatureImage:
-      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/shannon-email-christmas.png",
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/shannon-email1.png",
+    eventSignatures: [
+      {
+        id: "christmas",
+        name: "Christmas 2025",
+        image:
+          "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/shannon-email-christmas.png",
+      },
+    ],
     contacts: [
       {
         icon: "phone",
@@ -56,7 +64,15 @@ export const people: Person[] = [
     avatar: "/avatars/jane.jpg",
     headerImage: "/header.png",
     signatureImage:
-      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/kent-email-christmas.png",
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/kent-email.png",
+    eventSignatures: [
+      {
+        id: "christmas",
+        name: "Christmas 2025",
+        image:
+          "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/kent-email-christmas.pn",
+      },
+    ],
     contacts: [
       { icon: "phone", label: "1300 245 299", href: "tel:1300245299" },
       {
@@ -89,7 +105,15 @@ export const people: Person[] = [
     avatar: "/avatars/jane.jpg",
     headerImage: "/header.png",
     signatureImage:
-      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email-christmas.png",
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email1.png",
+    eventSignatures: [
+      {
+        id: "christmas",
+        name: "Christmas 2025",
+        image:
+          "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email-christmas.png",
+      },
+    ],
     contacts: [
       { icon: "phone", label: "1300 245 299", href: "tel:1300245299" },
       {

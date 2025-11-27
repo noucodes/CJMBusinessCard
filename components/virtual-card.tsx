@@ -4,8 +4,6 @@
 import { Phone, Mail, MapPin, Globe, Linkedin } from "lucide-react";
 import Image from "next/image";
 import { Card, CardContent } from "@/components/ui/card";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import { Separator } from "@/components/ui/separator";
 
 const iconMap: Record<string, React.ElementType> = {
     phone: Phone,
@@ -29,7 +27,12 @@ export type Person = {
     company: string;
     avatar?: string;
     headerImage: string;
-    signatureImage?: string;
+    signatureImage: string;
+    eventSignatures?: {            // Optional event versions
+        id: string;
+        name: string;
+        image: string;
+    }[];
     contacts: Contact[];
 };
 
