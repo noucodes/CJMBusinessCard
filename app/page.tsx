@@ -47,9 +47,9 @@ export default function Home() {
     <td align="left" style="padding: 20px 0;">
       ${linkUrl
       ? `<a href="${linkUrl}" target="_blank">
-             <img src="${imageUrl}" alt="${alt || "CJM Lawyers"}" width="700" style="width:700px;max-width:100%;height:auto;border-radius:18px;box-shadow:0 12px 40px rgba(0,0,0,0.15);display:block;" />
+             <img src="${imageUrl}" alt="${alt || "CJM Lawyers"}" width="1100" style="width:1100px;max-width:100%;height:auto;border-radius:18px;box-shadow:0 12px 40px rgba(0,0,0,0.15);display:block;" />
            </a>`
-      : `<img src="${imageUrl}" alt="${alt || "CJM Lawyers"}" width="700" style="width:700px;max-width:100%;height:auto;border-radius:18px;box-shadow:0 12px 40px rgba(0,0,0,0.15);display:block;" />`
+      : `<img src="${imageUrl}" alt="${alt || "CJM Lawyers"}" width="1100" style="width:1100px;max-width:100%;height:auto;border-radius:18px;box-shadow:0 12px 40px rgba(0,0,0,0.15);display:block;" />`
     }
     </td>
   </tr>
