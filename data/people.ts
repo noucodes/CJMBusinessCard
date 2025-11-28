@@ -51,8 +51,8 @@ export const people: Person[] = [
       },
       {
         icon: "linkedin",
-        label: "CJM Lawyers",
-        href: "https://www.linkedin.com/company/cjmlawyers/about/",
+        label: "Shannon McLaughlin",
+        href: "https://www.linkedin.com/in/shannon-mclaughlin-39a6a69/",
       },
     ],
   },
@@ -105,7 +105,7 @@ export const people: Person[] = [
     avatar: "/avatars/jane.jpg",
     headerImage: "/header.png",
     signatureImage:
-      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email1.png",
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email-compact.png",
     eventSignatures: [
       {
         id: "christmas",
