@@ -115,7 +115,7 @@ export const people: Person[] = [
       },
     ],
     contacts: [
-      { icon: "phone", label: "1300 245 299", href: "tel:1300245299" },
+      { icon: "phone", label: "0450 558 324", href: "tel:0450558324" },
       {
         icon: "mail",
         label: "jenna@cjmlaw.com.au",
