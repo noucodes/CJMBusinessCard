@@ -105,7 +105,7 @@ export const people: Person[] = [
     avatar: "/avatars/jane.jpg",
     headerImage: "/header.png",
     signatureImage:
-      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email-compact.png",
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email-compact-2.png",
     eventSignatures: [
       {
         id: "christmas",
