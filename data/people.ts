@@ -108,13 +108,13 @@ export const people: Person[] = [
       "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email-compact.png",
     eventSignatures: [
       {
-        id: "christmas 1",
+        id: "christmas",
         name: "Christmas 2025",
         image:
           "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email-christmas.png",
       },
       {
-        id: "christmas 2",
+        id: "personal christmas",
         name: "Christmas 2025 v2",
         image:
           "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/jenna-email-christmas-2.png",
