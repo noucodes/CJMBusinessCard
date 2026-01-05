@@ -83,4 +83,18 @@ export const locations: Location[] = [
       },
     ],
   },
+   {
+    id: "boonah",
+    name: "Boonah Office",
+    image:
+      "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/boonah.png",
+    eventImages: [
+      {
+        id: "christmas",
+        name: "Tweed Heads – Christmas 2025",
+        image:
+          "https://raw.githubusercontent.com/noucodes/CJMBusinessCard/refs/heads/main/public/tweed-heads-christmas.png",
+      },
+    ],
+  },
 ];
