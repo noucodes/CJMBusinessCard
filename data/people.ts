@@ -139,8 +139,8 @@ export const people: Person[] = [
       },
       {
         icon: "linkedin",
-        label: "CJM Lawyers",
-        href: "https://www.linkedin.com/company/cjmlawyers/about/",
+        label: "Jenna McIntyre",
+        href: "https://www.linkedin.com/in/jenna-mcintyre-cjm/",
       },
     ],
   },
